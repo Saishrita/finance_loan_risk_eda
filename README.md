@@ -12,12 +12,22 @@ Built for non-technical stakeholders → actionable insights on pricing & risk.
 * Data size: 50 k loans, 27 features (numeric + categorical)
 
 📂 Repo Structure
+```
 data/               #cleaned + raw samples (Git-LFS free)
 notebooks/          ├── 01_finance_EDA_step_by_step.ipynb  
                     └── 02_finance_report_notebook.ipynb 
 visuals/            PNG ready for slides
-
+README.md
+```
 
 📈 Sample Visuals  
 ![Interest vs FICO](visuals/interest_vs_fico.png)  
 ![Bad Loan by Purpose](visuals/bad_loan_by_purpose.png)
+
+
+## 📬 Stay Connected
+
+Created by **Saishrita Mohapatra**
+
+* [GitHub](https://github.com/Saishrita)
+* [LinkedIn](https://www.linkedin.com/in/saishrita-mohapatra-10a943272/)
