@@ -13,11 +13,15 @@ Built for non-technical stakeholders → actionable insights on pricing & risk.
 
 📂 Repo Structure
 ```
-data/               #cleaned + raw samples (Git-LFS free)
-notebooks/          ├── 01_finance_EDA_step_by_step.ipynb  
-                    └── 02_finance_report_notebook.ipynb 
-visuals/            PNG ready for slides
-README.md
+├── data/                           # Raw source CSV file + cleaned CSV file
+├── notebooks/                               
+│   ├──  01_finance_EDA_step_by_step.ipynb                     
+│   ├──  02_finance_report_notebook.ipynb       
+├── visuals/                          
+│   ├──  bad_loan_by_purpose.png
+│   ├──  correlation_heatmap.png
+│   ├──  interest_vs_fico.png
+├── README.md                           # Project overview & instructions
 ```
 
 📈 Sample Visuals  
