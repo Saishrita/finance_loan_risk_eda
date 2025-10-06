@@ -28,6 +28,9 @@ Built for non-technical stakeholders → actionable insights on pricing & risk.
 ![Interest vs FICO](visuals/interest_vs_fico.png)  
 ![Bad Loan by Purpose](visuals/bad_loan_by_purpose.png)
 
+🔗 Kaggle Dataset  
+[https://www.kaggle.com/datasets/wordsforthewise/lending-club](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+
 
 ## 📬 Stay Connected
 
