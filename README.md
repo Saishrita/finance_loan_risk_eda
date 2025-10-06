@@ -1,8 +1,3 @@
-# finance_loan_risk_eda
-
-
-
-```markdown
 # 💸 Consumer-Loan Risk EDA
 An end-to-end Exploratory Data Analysis of 50 k consumer loans from the Lending Club dataset.  
 Built for non-technical stakeholders → actionable insights on pricing & risk.
@@ -13,7 +8,7 @@ Built for non-technical stakeholders → actionable insights on pricing & risk.
 * Built interactive visuals exported to **HTML/PDF** for C-suite.
 
 🔧 Tech Stack
-* Python 3.10 | Pandas | NumPy | Matplotlib | Seaborn | colab
+* Python 3.10 | Pandas | NumPy | Matplotlib | Seaborn | Colab
 * Data size: 50 k loans, 27 features (numeric + categorical)
 
 📂 Repo Structure
@@ -22,6 +17,7 @@ notebooks/          ├── 01_finance_EDA_step_by_step.ipynb
                     └── 02_finance_report_notebook.ipynb 
 visuals/            PNG ready for slides
 
-📈 Sample Visuals
-visuals/interest_vs_fico.png
-visuals/bad_loan_by_purpose.png
+
+📈 Sample Visuals  
+![Interest vs FICO](visuals/interest_vs_fico.png)  
+![Bad Loan by Purpose](visuals/bad_loan_by_purpose.png)
